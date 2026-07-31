@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 paulo.txt
+=======
+Boa noite, salve
+>>>>>>> d857692ce7c4aeb1bbb540a614e229bd80ceb35c
